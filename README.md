@@ -111,4 +111,4 @@ One big issue we have in Bunto is "stale" issues, that is, issues which were ope
 
 ## License
 
-This code is licensed under BSD 3-clause as specified in the [LICENSE](LICENSE) file in this repository. This project is heavily based on @SuriyaaKudoIsc's [auto-reply](https://github.com/SuriyaaKudoIsc/auto-reply).
+This code is licensed under BSD 3-clause as specified in the [LICENSE](LICENSE) file in this repository. This project is heavily based on @parkr's [auto-reply](https://github.com/parkr/auto-reply).
