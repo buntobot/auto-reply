@@ -1,0 +1,4 @@
+#Travis CI
+language: go
+go:
+  - 1.7
